@@ -1,5 +1,5 @@
 global.owner = ["6283830646778"]
-global.version = "𝟸.𝟶.1"
+global.version = "𝟸.𝟶"
 global.session = "sessions"
 module.exports = { 
     NAMA_OWNER: "barmodss",
